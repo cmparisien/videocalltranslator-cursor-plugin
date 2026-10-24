@@ -1,0 +1,14 @@
+{
+  "name": "videocalltranslator",
+  "version": "1.0.0",
+  "description": "Set up live translated video calls from Cursor: create a VideoCallTranslator room in your language and the other person's, get the host and guest links, list your rooms, and check your translation minutes. 41 languages; the guest needs no app or account.",
+  "author": {
+    "name": "Sevenfires AI LLC",
+    "email": "contact@videocalltranslator.com"
+  },
+  "homepage": "https://videocalltranslator.com/blog/videocalltranslator-connector-reference",
+  "repository": "https://github.com/cmparisien/videocalltranslator-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["translation", "video call", "interpreter", "languages", "meetings", "mcp"],
+  "logo": "assets/logo.png"
+}
