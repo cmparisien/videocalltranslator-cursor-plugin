@@ -14,7 +14,7 @@ you hears the other in your own language. 41 languages.
 | `list_call_languages` | The languages a call can use.                                                 |
 | `create_call_room`    | Creates a room in your language and, if you say it, the other person's. Free. |
 | `list_my_rooms`       | Your open rooms, with their languages, last call date and links.              |
-| `get_minutes_balance` | Translation minutes left, and where to buy more.                              |
+| `get_minutes_balance` | Translation minutes left.                                                     |
 
 It cannot start, join or listen to a call, buy or spend minutes, or send
 messages. The call itself happens on videocalltranslator.com.

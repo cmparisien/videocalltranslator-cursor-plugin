@@ -13,7 +13,7 @@ spoken translation both ways. Its MCP server gives you four tools:
   opens it to start the call) and a guest link (the user sends it to the other
   person, who needs no app or account).
 - `list_my_rooms`: the user's open rooms, their languages and links.
-- `get_minutes_balance`: translation minutes left, and where to buy more.
+- `get_minutes_balance`: translation minutes left.
 
 ## When the user asks for a call
 
